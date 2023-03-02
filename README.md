@@ -1,2 +1,2 @@
-# planewar
-飞机大战
+# planewar-demo
+低配版飞机大战
